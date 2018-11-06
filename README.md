@@ -1,1 +1,1 @@
-# SM-Semidefinite-Programming
+# SM-Semidefinite Programming
